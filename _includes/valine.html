@@ -1,0 +1,12 @@
+{% if page.comments and site.valine.enable %}
+<script>
+    new Valine({
+        el: '#vcomments',
+        app_id: '{{ site.valine.appid }}',
+        app_key: '{{ site.valine.appkey }}',
+        placeholder: '{{ site.valine.placeholder }}',
+        avatar: '{{ site.valine.avatar }}',
+        visitor: '{{ site.valine.visitor }}'
+    });
+</script>
+{% endif %}
