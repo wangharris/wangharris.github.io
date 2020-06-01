@@ -14,7 +14,7 @@ url:                https://wangharris.github.io
 myimagehosting:     https://harriswang.gitee.io/myimagehosting
 
 #看板娘
-live2d:             true
+live2d:             false
 
 # Jekyll
 permalink:          /:title/
