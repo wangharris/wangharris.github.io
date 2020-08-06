@@ -1,5 +1,5 @@
 # Site
-title:              哈里斯的学习笔记
+title:              王晓江的学习笔记
 bio:                '古有烂笔头，今有破键盘'
 description:        "古有烂笔头，今有破键盘"
 reading_time:       true
@@ -8,7 +8,7 @@ logo:               'assets/img/logo.png'
 background:         'assets/img/placeholder-big.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             zh_CN
-url:                https://wangharris.github.io
+url:                https://harriswang.cn
 
 #image hosting
 myimagehosting:     https://harriswang.gitee.io/myimagehosting
